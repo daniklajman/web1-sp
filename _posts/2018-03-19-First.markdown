@@ -3,5 +3,5 @@ title: "name"
 description: "description"
 ---
 
-<img src="/web1-sp/img/img_0071.jpg" alt="Philadelphia exposition">
+<img src="/web1-sp/img/IMG_0071.jpg" alt="Philadelphia exposition">
 
