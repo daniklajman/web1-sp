@@ -1,3 +1,2 @@
-TEXT
 
-<img src="/web1-sp/img/koreanmonument.JPG" alt="Korean War Monument">
+<img src="/web1-sp/img/korenmonument.JPG" alt="Korean War Monument">
