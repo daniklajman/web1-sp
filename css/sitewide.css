@@ -27,7 +27,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'IBM Plex Mono', monospace;
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
