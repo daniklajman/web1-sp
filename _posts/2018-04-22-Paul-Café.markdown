@@ -1,4 +1,3 @@
 Paul is a bakery, founded on 1889 in France. In DC, it is located in Georgetown. The café has a traditional and classic design that make their customers feel "at home".
 
-
-<img scr="/web1-sp/img/paul.JPG" alt="Interior Paul">
+<img src="/web1-sp/img/paul.JPG" alt="Paul Café">
