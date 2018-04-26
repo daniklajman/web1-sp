@@ -1,2 +1,2 @@
 
-<img scr="/web1-sp/img/washingtonmonument.JPG" alt="White House">
+<img src="/web1-sp/img/whitehouse.JPG" alt="White House">
