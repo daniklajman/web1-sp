@@ -30,7 +30,8 @@ body {
 	font-family: 'Nanum Gothic Coding', monospace;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #black;
+	color: #FFFFFF;
+	background-color: #A52A2A;
 }
 
 /*	Generally, you will only want one container element in
