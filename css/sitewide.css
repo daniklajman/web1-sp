@@ -51,3 +51,7 @@ body {
 	border: 5px solid #red;
 }
 
+a {
+	color: #DCDCDC;
+	text-decoration: none;
+}
