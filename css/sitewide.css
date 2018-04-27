@@ -28,7 +28,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 
 body {
 	font-family: 'Nanum Gothic Coding', monospace;
-	font-size: 20px;
+	font-size: 16x;
 	line-height: 1.5em;
 	text-align: center;
 	color: #FFFFFF;
@@ -53,5 +53,5 @@ body {
 
 a {
 	color: #A9A9A9;
-	text-decoration: grey wavy underline;
+	text-decoration: grey underline;
 }
