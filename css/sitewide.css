@@ -52,6 +52,6 @@ body {
 }
 
 a {
-	color: #DCDCDC;
-	text-decoration: none;
+	color: #A9A9A9;
+	text-decoration: grey underline;
 }
