@@ -1,3 +1,1 @@
-The Washington Monument was designed by the American architect Robert Mills, in the 19th century. Differently from the others buildings in the city inspired by Greek and Roman architecture, Mills proposed an obelisk, a symbol of power erected in honor of ancient Egyptian pharaoh.
-
 <img src="/web1-sp/img/washingtonmonument.JPG" alt="Washington Monument">
